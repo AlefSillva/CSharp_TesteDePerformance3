@@ -22,7 +22,7 @@ A classe AppIngresso permite que o usuário interaja com um objeto da classe Ing
 - **Alteração com Getters e Setters:** Usando métodos **Get e Set** para alterar as propriedades do ingresso.
 
 ### Como Usar:
-Após selecionar a opção "Testar Classe Ingresso", o programa apresentará um menu para o usuário escolher como visualizar as alterações. O menu de opções será o seguinte:
+Após selecionar a opção **"Testar Classe Ingresso"**, o programa apresentará um menu para o usuário escolher como visualizar as alterações. O menu de opções será o seguinte:
 
 ```
 =================================================
@@ -38,6 +38,9 @@ Após selecionar a opção "Testar Classe Ingresso", o programa apresentará um 
 
 Digite o número da opção desejada:
 ```
+## Observações:
+- Na **Alteração normal**, o programa altera diretamente as informações do ingresso utilizando os métodos AlterarPreco() e AlterarQuantidade().
+- Na **Alteração com Getters e Setters**, o programa altera as propriedades do ingresso utilizando os métodos Get e Set, permitindo maior controle sobre os dados.
 
 ## Como Executar o Projeto
 - Clone ou baixe este repositório em sua máquina.
