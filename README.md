@@ -1,4 +1,4 @@
-# CSharp_TesteDePerformance3
+# Menu de Exercícios
 Este é um programa desenvolvido para testar diferentes exercícios do **Teste De Performance 3** da matéria de **Fundamentos de Desenvolvimento com C#**. O código é estruturado de forma modular, com várias classes que podem ser executadas a partir de um menu interativo no console.
 
 ## Funcionalidade
