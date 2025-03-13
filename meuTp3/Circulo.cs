@@ -18,7 +18,7 @@ namespace meuTp3
         // Métodos
         public double CalcularArea()
         {
-            return Math.PI * Math.Pow(raio, 2);
+            return Math.PI * (raio * raio);
         }
     }
 }

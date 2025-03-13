@@ -16,7 +16,7 @@
         // Métodos
         public double CalcularVolume()
         {
-            return (4.0 / 3.0) * Math.PI * Math.Pow(raio, 3);
+            return (4.0 / 3.0) * Math.PI * (raio * raio * raio);
         }
 
     }
